@@ -1,12 +1,12 @@
 {
   "products":[
-    {"id":"0" ,"name":"FRANCE AUTHENTIC JESRSEY 2018","brand": "NIKE","price":"$165","image": "http://10.7.20.68:5000/images/home_products/product1.png"},
-    {"id":"1" ,"name":"ARGENTINA AUTHENTIC JESRSEY 2018","brand": "NIKE","price":"$130","image": "http://10.7.20.68:5000/images/home_products/product2.png"},
-    {"id":"2" ,"name":"ARGENTINA AUTHENTIC JESRSEY 2017","brand": "ADIDAS","price":"$130","image": "http://10.7.20.68:5000/images/home_products/product3.png"},
-    {"id":"3" ,"name":"BRAZIL AUTHENTIC JESRSEY 2018","brand": "NIKE","price":"$165","image": "http://10.7.20.68:5000/images/home_products/product4.png"},
-    {"id":"4" ,"name":"FRANCE AUTHENTIC JESRSEY 2018","brand": "NIKE","price":"$165","image": "http://10.7.20.68:5000/images/home_products/product1.png"},
-    {"id":"5" ,"name":"ARGENTINA AUTHENTIC JESRSEY 2018","brand": "NIKE","price":"$130","image": "http://10.7.20.68:5000/images/home_products/product2.png"},
-    {"id":"6" ,"name":"BRAZIL AUTHENTIC JESRSEY 2018","brand": "NIKE","price":"$165","image": "http://10.7.20.68:5000/images/home_products/product4.png"}
+    {"id":"0" ,"name":"FRANCE AUTHENTIC JESRSEY 2018","brand": "NIKE","price":"165","image": "http://10.7.20.68:5000/images/home_products/product1.png"},
+    {"id":"1" ,"name":"ARGENTINA AUTHENTIC JESRSEY 2018","brand": "NIKE","price":"130","image": "http://10.7.20.68:5000/images/home_products/product2.png"},
+    {"id":"2" ,"name":"ARGENTINA AUTHENTIC JESRSEY 2017","brand": "ADIDAS","price":"130","image": "http://10.7.20.68:5000/images/home_products/product3.png"},
+    {"id":"3" ,"name":"BRAZIL AUTHENTIC JESRSEY 2018","brand": "NIKE","price":"165","image": "http://10.7.20.68:5000/images/home_products/product4.png"},
+    {"id":"4" ,"name":"FRANCE AUTHENTIC JESRSEY 2018","brand": "NIKE","price":"165","image": "http://10.7.20.68:5000/images/home_products/product1.png"},
+    {"id":"5" ,"name":"ARGENTINA AUTHENTIC JESRSEY 2018","brand": "NIKE","price":"130","image": "http://10.7.20.68:5000/images/home_products/product2.png"},
+    {"id":"6" ,"name":"BRAZIL AUTHENTIC JESRSEY 2018","brand": "NIKE","price":"165","image": "http://10.7.20.68:5000/images/home_products/product4.png"}
 
   ]
 }
