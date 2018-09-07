@@ -6,7 +6,12 @@
     {"id":"3" ,"name":"BRAZIL AUTHENTIC JERSEY 2018","brand": "NIKE","price":"165","image": "http://10.7.20.68:5000/images/home_products/product4.png"},
     {"id":"4" ,"name":"SPAIN AUTHENTIC JERSEY 2018","brand": "NIKE","price":"165","image": "http://10.7.20.68:5000/images/home_products/product5.png"},
     {"id":"5" ,"name":"GERMANY AUTHENTIC JERSEY 2018","brand": "NIKE","price":"130","image": "http://10.7.20.68:5000/images/home_products/product6.png"},
-    {"id":"6" ,"name":"MEXICO AUTHENTIC JERSEY 2018","brand": "NIKE","price":"165","image": "http://10.7.20.68:5000/images/home_products/product7.png"}
+    {"id":"6" ,"name":"MEXICO AUTHENTIC JERSEY 2018","brand": "NIKE","price":"165","image": "http://10.7.20.68:5000/images/home_products/product7.png"},
+    {"id":"7" ,"name":"FRANCE AUTHENTIC JERSEY 2018","brand": "NIKE","price":"165","image": "http://10.7.20.68:5000/images/category1/product1.jpg"},
+    {"id":"8" ,"name":"ARGENTINA AUTHENTIC JERSEY 2018","brand": "NIKE","price":"130","image": "http://10.7.20.68:5000/images/category1/product2.jpg"},
+    {"id":"9" ,"name":"BARCELONA AUTHENTIC JERSEY 2017","brand": "ADIDAS","price":"130","image": "http://10.7.20.68:5000/images/category1/product3.jpg"},
+    {"id":"10" ,"name":"BRAZIL AUTHENTIC JERSEY 2018","brand": "NIKE","price":"165","image": "http://10.7.20.68:5000/images/category1/product4.jpg"},
+    {"id":"11" ,"name":"SPAIN AUTHENTIC JERSEY 2018","brand": "NIKE","price":"165","image": "http://10.7.20.68:5000/images/category1/product5.jpg"}
 
   ]
 }
